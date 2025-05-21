@@ -4,7 +4,7 @@ using UnityEngine;
 /// <summary>
 /// 유니티 에디터에 있는 Console View에 로그를 출력하기 위한 테스트 클래스
 /// </summary>
-public class StudyLog : MonoBehaviour
+public class Study_Log : MonoBehaviour
 {
     void Start()
     {
